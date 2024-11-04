@@ -5,12 +5,18 @@
 **Work in Progress**
 
 ## Portable App Collections with Launchers
-* [PortableApps.com](https://portableapps.com/) *1,100+ portable packages, 1.1 billion downloads*
-* [winPenPack](https://www.winpenpack.com/) *winPenPack is an open source software environment comprised of several portable applications grouped into suites (portable applications are applications that are modified to be executed directly from a USB flash drive, without prior installation).*
-* [NirLauncher](https://launcher.nirsoft.net/) *NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.*
+* [PortableApps.com](https://portableapps.com/) <br>
+  *1,100+ portable packages, categorized, 1.1 billion downloads*
+* [winPenPack](https://www.winpenpack.com/) <br>
+  *winPenPack is an open source software environment comprised of several portable applications grouped into suites (portable applications are applications that are modified to be executed directly from a USB flash drive, without prior installation).*
+* [NirLauncher](https://launcher.nirsoft.net/) <br>
+  *NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years. <strong>See also the NirLauncher below</strong>*
 
 ## Websites with catalogs of portable apps
-* [The Portable Freeware Collection](https://www.portablefreeware.com/) *2833+ Freeware and Portable Apps. Very well categorized*
-* [NirSoft](https://www.nirsoft.net/)*NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.*
-* [NirSoft](https://www.majorgeeks.com/)*MajorGeeks is a small, home-based technology website that was founded in 2001 and focused on only the best, safe, personally tested software available on the internet.*
+* [The Portable Freeware Collection](https://www.portablefreeware.com/) <br>
+  *2833+ Freeware and Portable Apps. Very well categorized*
+* [NirSoft](https://www.nirsoft.net/) <br>
+  *NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.*
+* [MajorGeeks](https://www.majorgeeks.com/) <br>
+  *MajorGeeks is a small, home-based technology website that was founded in 2001 and focused on only the best, safe, personally tested software available on the internet. <strong>See also the Nirsoft site abovee</strong>*
 
