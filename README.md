@@ -1,6 +1,6 @@
 # Awesome Portable App Collections [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated List of Websites with lots of portable apps and catalogs of portable apps and useful freeware utilites.
+> Curated List of Websites with lots of portable apps and catalogs of portable apps and useful freeware utilities.
 
 **This is list is a <strong>Work in Progress</strong> - Will be completed very soon, please Star and Watch for updated. Thank you!**
 
