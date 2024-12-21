@@ -1,6 +1,6 @@
 # Awesome Portable App Collections [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated List of sites with collection o portable apps and catalogs of portable apps and other useful freeware utilities. I've also included lauchers, and some extra resources.
+> Curated List of sites with launchers , collections, catalogs and lists of portable and freeware apps. There are also standalone launchers if you want to build and customize your own collection and extra resources.
 
 ## Contents
 
@@ -8,7 +8,7 @@
 - [Websites with catalogs of portable apps](#websites-with-catalogs-of-portable-apps)
 - [Application Launchers *No Apps Included*](#application-launchers-no-apps-included)
 - [Miscellaneous](#miscellaneous)
-- [Abandoned or Discontinued](#abandoendor-discontinued)
+- [Abandoned or Discontinued](#abandoned-or-discontinued)
 
 ### Portable App Collections with Launchers
 * [PortableApps.com (PAF)](https://portableapps.com/) <br>
@@ -16,7 +16,7 @@
 * [SyMenu Suite](https://www.ugmfree.it/symenusuite) <br>
   *1744+ freeware portable apps, The largest program suite worldwide. A portable menu launcher and a Start Menu replacer to organize your applications quickly and easily. On top of that SyMenu is able to automatically index any application installed on the host pc. But the real power of SyMenu unfolds when you approach its integrated large and daily growing suites of freeware programs contained within the SyMenu Suite. The SyMenu launcher also includes all of the portables included in the Nirsoft collection.*
 * [NirLauncher](https://launcher.nirsoft.net/) <br>
-  *more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years. You can also add packages to the launcher such as the [SysInternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) and aslo integrate Nirsoft protables into the SyMenu suite. ca<strong>If you only want th eportabkes but not the launcher, checkout the Nirsot Catalog below, for individual portables but without the launher.</strong>;*
+  *more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years. You can also add packages to the launcher such as the [SysInternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) and aslo integrate Nirsoft protables into the SyMenu suite. <strong>If you only want th eportabkes but not the launcher, checkout the Nirsot Catalog below, for individual portables but without the launher.</strong>*
 * [winPenPack](https://www.winpenpack.com/) <br>
   *Open source software environment comprised of several portable applications grouped into suites (portable applications are applications that are modified to be executed directly from a USB flash drive, without prior installation).*
 * [Appetizer - The Open Source Dock](https://appetizer.cozic.net/) <br>
@@ -29,15 +29,18 @@
   *Unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.*
 * [MajorGeeks](https://www.majorgeeks.com/) <br>
   *Small, home-based technology website that was founded in 2001 and focused on only the best, safe, personally tested software available on the internet. <strong>See also the Nirsoft site above</strong>.*
-* [SnapFiles - The Top 100 Portable Apps](https://www.snapfiles.com/topdownloads/top100-portable-apps.html) <br>
-  *The Top 100 list from SnapFiles for portable apps is based on the number of downloads a program has accumulated over the past few weeks. All of these apps are portable - they don't need to be installed. Just run the executable.*
 * [Portapps - Applications](https://portapps.io/apps/) <br>
   *A catalog containing a growing list of 54+ applications.*
 * [Pendrive Apps](https://pendriveapps.com/sitemap/) <br>
-  *Personally reviewed free portable apps and games by [Pendrive Apps](https://pendriveapps.com/sitemap/) for USB. Here you will find some of the best free portable games, software and applications for Windows. These are useful tools and utilities that can both be stored and then run directly from a flashdrive, thumbdrive, pendrive or other commonly used removable storage device.*
+  *Personally reviewed free portable apps & games, by the authors of Pendrive Apps. Here you will find some of the best free portable games, software and applications for Windows. These are useful tools and utilities that can both be stored and then run directly from a flashdrive, thumbdrive, pendrive or other commonly used removable storage device.*
+
+### Pages with lists of useful portable apps
+
+* [SnapFiles - The Top 100 Portable Apps](https://www.snapfiles.com/topdownloads/top100-portable-apps.html) <br>
+  *This Top 100 list of portable apps is based on the number of downloads a program has accumulated over the past few weeks on SnapFiles. All of these apps are portable - they don't need to be installed. Just run the executable.*
 * [Make Use Of - 100 Portable Apps for Your USB Stick for Windows and macOS](https://www.makeuseof.com/tag/portable-software-usb/) <br>
   *Make Use Of has collected the best portable apps, but there are so many more out there. Grab your spare flash drive or empty cloud storage and fill it up with this mega-list of 100 portable apps. You'll find tools to satisfy every software need, categorized by type.*
-
+  
 ### Application Launchers (No Apps Included)
 
 <p>I've included this category as well, as I feel those launcher are good choices for launching and organizing both portable, and installable applications.</p>
@@ -54,7 +57,8 @@
 ### Miscellaneous 
 
 * [Wikipedia - List of portable software](https://en.wikipedia.org/wiki/List_of_portable_software) <br>
-  *For the purposes of this list, a portable application is software that can be used from portable storage devices such as USB flash drives, digital audio players, PDAs or external hard drives. To be considered for inclusion, an application must be executable on multiple computers from removable storage without installation, and without writing settings or data onto a computer's non-removable storage. This includes modified portable versions of non-portable applications.*
+  **According to WikiPedia the definition of a Portable Application is:**<br>
+  *A portable application is software that can be used from portable storage devices such as USB flash drives, digital audio players, PDAs or external hard drives. To be considered for inclusion, an application must be executable on multiple computers from removable storage without installation, and without writing settings or data onto a computer's non-removable storage. This includes modified portable versions of non-portable applications.*
 
 * [StartKey](https://www.gtricks.com/general/microsoft-startkey-windows-on-a-usb/) <br>
   *Microsoft’s plan is to provide a complete suite of tools for consumers and developers to help push the portable computing paradigm into the mainstream. In addition to USB flash drives, StartKey technology could work on other flash memory types like SD cards, or any other new storage format of the week. An SDK will be provided to developers so they can enable their own applications to plug into the platform and go portable.*
