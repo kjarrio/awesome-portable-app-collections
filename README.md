@@ -11,12 +11,12 @@
 - [Abandoned or Discontinued](#abandoendor-discontinued)
 
 ### Portable App Collections with Launchers
-* [PortableApps.com](https://portableapps.com/) <br>
+* [PortableApps.com (PAF)](https://portableapps.com/) <br>
   *1100+ categorized portable packages. Over 1.1 billion downloads so far.*
 * [SyMenu Suite](https://www.ugmfree.it/symenusuite) <br>
-  *1744+ freeware portable apps, The largest program suite worldwide. A portable menu launcher and a Start Menu replacer to organize your applications quickly and easily. On top of that SyMenu is able to automatically index any application installed on the host pc. But the real power of SyMenu unfolds when you approach its integrated large and daily growing suites of freeware programs contained within the SyMenu Suite.*
+  *1744+ freeware portable apps, The largest program suite worldwide. A portable menu launcher and a Start Menu replacer to organize your applications quickly and easily. On top of that SyMenu is able to automatically index any application installed on the host pc. But the real power of SyMenu unfolds when you approach its integrated large and daily growing suites of freeware programs contained within the SyMenu Suite. The SyMenu launcher also includes all of the portables included in the Nirsoft collection.*
 * [NirLauncher](https://launcher.nirsoft.net/) <br>
-  *more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years. <strong>See also the NirLauncher below</strong>;*
+  *more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years. You can also add packages to the launcher such as the [SysInternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) and aslo integrate Nirsoft protables into the SyMenu suite. ca<strong>If you only want th eportabkes but not the launcher, checkout the Nirsot Catalog below, for individual portables but without the launher.</strong>;*
 * [winPenPack](https://www.winpenpack.com/) <br>
   *Open source software environment comprised of several portable applications grouped into suites (portable applications are applications that are modified to be executed directly from a USB flash drive, without prior installation).*
 * [Appetizer - The Open Source Dock](https://appetizer.cozic.net/) <br>
