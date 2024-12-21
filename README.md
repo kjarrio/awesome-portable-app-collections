@@ -6,9 +6,9 @@
 
 - [Portable App Collections with Launchers](#portable-app-collections-with-launchers)
 - [Websites with catalogs of portable apps](#websites-with-catalogs-of-portable-apps)
-- [Miscellaneous](#miscellaneous)
 - [Application Launchers *No Apps Included*](#application-launchers-no-apps-included)
-- [Abandoend or Discontinued](#abandoendor-discontinued)
+- [Miscellaneous](#miscellaneous)
+- [Abandoned or Discontinued](#abandoendor-discontinued)
 
 ### Portable App Collections with Launchers
 * [PortableApps.com](https://portableapps.com/) <br>
@@ -38,14 +38,6 @@
 * [Make Use Of - 100 Portable Apps for Your USB Stick for Windows and macOS](https://www.makeuseof.com/tag/portable-software-usb/) <br>
   *Make Use Of has collected the best portable apps, but there are so many more out there. Grab your spare flash drive or empty cloud storage and fill it up with this mega-list of 100 portable apps. You'll find tools to satisfy every software need, categorized by type.*
 
-### Miscellaneous 
-
-* [Wikipedia - List of portable software](https://en.wikipedia.org/wiki/List_of_portable_software) <br>
-  *For the purposes of this list, a portable application is software that can be used from portable storage devices such as USB flash drives, digital audio players, PDAs or external hard drives. To be considered for inclusion, an application must be executable on multiple computers from removable storage without installation, and without writing settings or data onto a computer's non-removable storage. This includes modified portable versions of non-portable applications.*
-
-* [StartKey](https://www.gtricks.com/general/microsoft-startkey-windows-on-a-usb/) <br>
-  *Microsoft’s plan is to provide a complete suite of tools for consumers and developers to help push the portable computing paradigm into the mainstream. In addition to USB flash drives, StartKey technology could work on other flash memory types like SD cards, or any other new storage format of the week. An SDK will be provided to developers so they can enable their own applications to plug into the platform and go portable.*
-  
 ### Application Launchers (No Apps Included)
 
 <p>I've included this category as well, as I feel those launcher are good choices for launching and organizing both portable, and installable applications.</p>
@@ -59,7 +51,15 @@
 * [Launchy](https://www.launchy.net/) <br>
   *Free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager. Indexes the programs in your start menu and can launch your documents, project files, folders, and bookmarks with just a few keystrokes!<br>*
 
-### Abandoend or Discontinued
+### Miscellaneous 
+
+* [Wikipedia - List of portable software](https://en.wikipedia.org/wiki/List_of_portable_software) <br>
+  *For the purposes of this list, a portable application is software that can be used from portable storage devices such as USB flash drives, digital audio players, PDAs or external hard drives. To be considered for inclusion, an application must be executable on multiple computers from removable storage without installation, and without writing settings or data onto a computer's non-removable storage. This includes modified portable versions of non-portable applications.*
+
+* [StartKey](https://www.gtricks.com/general/microsoft-startkey-windows-on-a-usb/) <br>
+  *Microsoft’s plan is to provide a complete suite of tools for consumers and developers to help push the portable computing paradigm into the mainstream. In addition to USB flash drives, StartKey technology could work on other flash memory types like SD cards, or any other new storage format of the week. An SDK will be provided to developers so they can enable their own applications to plug into the platform and go portable.*
+  
+### Abandoned or Discontinued
 
 * [U3](https://web.archive.org/web/20221206110730/https://support-en.wd.com/app/answers/detailweb/a_id/37774) <br>
   **U3 was a joint venture between SanDisk and M-Systems, producing a proprietary method of launching Windows software from special USB flash drives. Flash drives adhering to the U3 specification are termed "U3 smart drives". U3 smart drives come preinstalled with the U3 Launchpad. Applications that comply with U3 specifications are allowed to write files or registry information to the host computer, but they must remove this information when the flash drive is ejected. Customizations and settings are instead stored with the application on the flash drive.** - More info on *[WikiPedia](https://en.wikipedia.org/wiki/U3_(software))*
